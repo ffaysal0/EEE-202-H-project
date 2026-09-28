@@ -1,1 +1,6 @@
 EEE-202 (H) Project: Design an experiment on the I-V characteristics of a BJT.
+We designed:
+1. Experiment Labsheet
+2. Experiment Lab Report
+3. Demonstration & Presentation
+
